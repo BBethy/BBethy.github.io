@@ -1,18 +1,24 @@
 body{
-	font-family: "Marker Felt", "Comic Sans MS", fantasy;
-	color: white;
-    text-align:center;
+	font-family : "Marker Felt", "Comic Sans MS", fantasy;
+	color : black;
+    text-align : center;
 }
 
 h1 {
-	font-size: 2em;
-	text-align: center;
-    font-style:normal;
-    font:calibri;
+	font-size : 2em;
+	text-align : center;
+    font-style : normal;
+    font : calibri;
     
 }
 h2 {
-    font:calibri;
-    font-size:medium;
-    color:white;
+    font : calibri;
+    font-size : medium;
+    color : black;
     }
+    
+h3 {
+    font : calibri;
+    font-size : medium;
+    color : pink;
+}
